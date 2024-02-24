@@ -11,4 +11,4 @@
 # Remove Vendor - Site Admin can delete Vendor using this API
 # Approve vendor - When any new Vendor register on the platform. Admin will have an option to Accept/Reject Vendor Joining Request
 # Request Password Reset - Vendor will be able to request password request
-# Reset password - This API will be used to reset Vendor Password when s/he request for password change
+# Reset password - This API will be used to reset Vendor Password when s/he request for password reset
