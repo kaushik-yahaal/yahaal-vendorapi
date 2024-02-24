@@ -1,1 +1,1 @@
-# yahaal-vendorapi
+# yahaalvendor-api
